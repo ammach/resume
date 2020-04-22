@@ -1,35 +1,35 @@
 {
     "basics": {
-        "name": "John Doe",
+        "name": "Ammach Mohamed Amine",
         "label": "Programmer",
-        "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
+        "picture": "https://media-exp1.licdn.com/dms/image/C5603AQErn7frKyfFPA/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=OLz12QozPJ27aIcz676pdsCbdAMgDDVi-ws3OLhvnGo",
+        "email": "mohamedamineammach@gmail.com",
+        "phone": "(212) 7-08-04-13-92",
         "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "summary": "Présentation de Mohamed Amine Ammach...",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "Marrakech Dawdiat Sinkou 1",
+            "postalCode": "40000",
+            "city": "Marrakech",
+            "countryCode": "Maroc",
+            "region": "Marrakech-Safi"
         },
         "profiles": [
             {
                 "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
+                "username": "MedAmineAmmach",
+                "url": "https://twitter.com/MedAmineAmmach"
             }
         ]
     },
     "work": [
         {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
+            "name": "Norsys",
+            "position": "Développeur Java/JavaEE/React",
+            "website": "https://www.norsys.fr",
             "startDate": "2014-01-01",
             "summary": "Description...",
-            "location": "Paris, France",
+            "location": "Marrakech, Maroc",
             "highlights": ["Started the company"]
         },
         {
@@ -63,20 +63,28 @@
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
+            "institution": "FSTG de Marrakech",
+            "area": "Diplôme d’ingénieur en systèmes d'information",
             "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "endDate": "2017-01-01",
             "gpa": "4.0",
             "courses": ["DB1101 - Basic SQL"]
         },
         {
-            "institution": "Université d'artois",
+            "institution": "Formation à l'école Technomaker",
             "area": "",
             "studyType": "",
             "startDate": "2011-01-01",
-            "endDate": "",
+            "endDate": "2017",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        },
+        {
+            "institution": "Certifié Professional Android Developer",
+            "area": "",
+            "studyType": "",
+            "startDate": "2011-01-01",
+            "endDate": "2015",
             "gpa": "4.0",
             "courses": ["DB1101 - Basic SQL"]
         }
@@ -100,62 +108,55 @@
     ],
     "skills": [
         {
-            "name": "Reactaaa",
+            "name": "Java",
             "level": "Master",
             "value": 100,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Angular",
+            "name": "React",
             "level": "Master",
             "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "NodeJS",
+            "name": "Javascript",
             "level": "Master",
             "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Firebase",
+            "name": "Git/Git Flow",
             "level": "Master",
             "value": 60,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Gmail",
+            "name": "unit tests/junit/jest",
             "level": "Master",
             "value": 20,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "K8S",
+            "name": "BDD/cucumber",
             "level": "Master",
             "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "languages": [{ "language": "Français", "value": 100, "fluency": "Native speaker" }],
     "interests": [
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+            "name": "Le Foot",
+            "gifUrl": "https://media.giphy.com/media/fxI707xF0uBEbc930p/giphy.gif"
         },
         {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+            "name": "Le cyclisme",
+            "gifUrl": "https://media.giphy.com/media/hV0eKC2OpA0F1Ougjs/giphy.gif"
         },
         {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "La marche",
+            "gifUrl": "https://media.giphy.com/media/xUOrvW5lZpuaNJgpVu/giphy.gif"
         }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
@@ -168,8 +169,8 @@
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "visaSponsorship": false,
+            "personalDescription": "Tout au long de mon expérience professionnelle, j’ai développé mes compétences techniques dans le domaine du Java/JEE. J’ai aussi été amené à découvrir le développement d’applications web avec JAVA/EE et React.\nMes différentes missions m’ont sensibilisées sur l’importance d’un code de qualité. Au cours de mes missions j’ai acquis de l’expérience dans les domaines suivants :\n• Développement Java/JEE et React.\n• Maintenance et évolution de sites Web et d’applications mobiles.\n• Intégration logiciel.\nJe porte un fort intérêt dans les pratiques Agiles et d’intégration continue, qui permettent de faciliter et d’assurer la production d’un logiciel de qualité répondant aux besoins des utilisateurs."
         },
         "dreamJob": {
             "locations": [
@@ -188,15 +189,15 @@
         "education": { "studiesLevel": 5 },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
-            "searchState": "activelySearching",
-            "experienceYears": 9
+            "codingYears": 6,
+            "codingReason": "J'ai commencé à coder sur Marrakech dans ma maison et je n'ai jamais arrêté depuis",
+            "searchState": "openOpportunities",
+            "experienceYears": 3
         },
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Le développment mobile, l'open source"
     },
     "resumeCustomization": {
         "imageHeader": {
@@ -205,15 +206,13 @@
         },
         "cardsOrder": [
             { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
             { "type": "experiences", "variant": 4 },
             { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
+            { "type": "skills", "variant": 0 },
+            { "type": "projects", "variant": 4 },
             { "type": "interestedBy", "variant": 3 },
             { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 }
+            { "type": "gifs", "variant": 0 }
         ],
         "fields": {
             "work": {

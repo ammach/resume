@@ -38,7 +38,7 @@ const messages = {
 const useStyles = createUseStyles(styles);
 
 const DEFAULT_OPTIONS = Object.freeze({
-    locale: 'en',
+    locale: 'fr',
     customization: {
         imageHeader: {
             url: 'https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp',
@@ -46,7 +46,7 @@ const DEFAULT_OPTIONS = Object.freeze({
         }
     },
     showContactInfos: true,
-    dismissFooter: false
+    dismissFooter: true
 });
 
 const DEFAULT_OBJECT = {};
